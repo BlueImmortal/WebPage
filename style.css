@@ -52,6 +52,12 @@ background-color:#d1d1d1;
 
 }
 
+body a {
+
+	color:#343a40;
+	font-weight: bold;
+}
+
 .list-group a {
 
 	color: #343a40;
