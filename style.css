@@ -63,7 +63,7 @@ body a {
 	color: #343a40;
 }
 
-.award, .event {
+.award, .event, .project{
 
 	list-style-type: none;
 	padding: 0px;
@@ -88,7 +88,16 @@ body a {
 
 }
 
-.award li a, .event li a {
+.project li:before {
+
+	font-weight: 900;
+	font-family: 'Font Awesome 5 Free';
+	content: "\f5ad";
+	padding-right: 5px;
+
+}
+
+.award li a, .event li a, .project li a {
 
 	font-weight: bold;
 	font-style: italic;
