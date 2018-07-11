@@ -73,6 +73,15 @@ background-color:#d1d1d1;
 
 }
 
+.event li:before {
+
+	font-weight: 900;
+	font-family: 'Font Awesome 5 Free';
+	content: "\f559";
+	padding-right: 5px;
+
+}
+
 .award li a, .event li a {
 
 	font-weight: bold;
