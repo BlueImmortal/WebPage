@@ -1,4 +1,4 @@
-/* HOVER START */
+/* HOVER PROJECTS.HTML START */
 
 .hovereffect {
 width:100%;
@@ -41,7 +41,7 @@ opacity:1;
 filter:alpha(opacity=100);
 }
 
-/* HOVER END */
+/* HOVER PROJECTS.HTML END */
 
 
 /* OTHERS */
@@ -61,6 +61,7 @@ background-color:#d1d1d1;
 
 	list-style-type: none;
 	padding: 0px;
+
 }
 
 .award li:before {
@@ -68,10 +69,12 @@ background-color:#d1d1d1;
 	font-weight: 900;
 	font-family: 'Font Awesome 5 Free';
 	content: "\f091";
-	padding-left: 15px;
+	padding-right: 5px;
+
 }
 
 .award li a, .event li a {
 
 	font-weight: bold;
+	font-style: italic;
 }
