@@ -56,3 +56,22 @@ background-color:#d1d1d1;
 
 	color: #343a40;
 }
+
+.award, .event {
+
+	list-style-type: none;
+	padding: 0px;
+}
+
+.award li:before {
+
+	font-weight: 900;
+	font-family: 'Font Awesome 5 Free';
+	content: "\f091";
+	padding-left: 15px;
+}
+
+.award li a, .event li a {
+
+	font-weight: bold;
+}
