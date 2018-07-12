@@ -58,6 +58,11 @@ body a, body a:hover {
 	font-weight: bold;
 }
 
+body nav a {
+
+	font-weight: normal;
+}
+
 .list-group a {
 
 	color: #343a40;
