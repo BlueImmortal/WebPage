@@ -56,6 +56,7 @@ body a, body a:hover {
 
 	color:#343a40;
 	font-weight: bold;
+	font-style: italic;
 }
 
 body nav a {
@@ -106,4 +107,18 @@ body nav a {
 
 	font-weight: bold;
 	font-style: italic;
+}
+
+.carousel-item .photo{
+
+	background-color: red;
+	width: 100%;
+	max-height: 300px;
+
+}
+
+.carousel-item .photo img{
+
+	height: 100%;
+
 }
