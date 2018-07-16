@@ -62,6 +62,12 @@ body a, body a:hover {
 body nav a {
 
 	font-weight: normal;
+	font-style: normal;
+}
+
+body nav a:hover {
+
+	font-style: normal;
 }
 
 .list-group a {
@@ -113,12 +119,12 @@ body nav a {
 
 	background-color: red;
 	width: 100%;
-	max-height: 300px;
+	max-height: 400px;
 
 }
 
 .carousel-item .photo img{
 
-	height: 100%;
+	max-height: inherit;
 
 }
