@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
  
-<?php require 'header.html'; ?>
+<?php require 'static/header.html'; ?>
 
 </head>
 <body>
