@@ -54,35 +54,7 @@
 
       <?php require 'static/experience.html'; ?>
 
-      <h4>Awards</h4>
-
-      <ul class="award">
-
-        <li>
-          <b>3rd place</b> in Nationwide <a href="https://new.abb.com/pl/kariera/rozwoj-zawodowy/studenci/konkursy-abb/it-challenge/konkurs-abb-it-challenge-2017/edycja-2017">ABB IT Challenge 2017</a> competition - "Interact with the real world" (Cracow, Poland, June 2017)
-        </li>
-          
-        <li>
-          <b>3rd place</b> in 54th Scientific Groups Conference in Automatics and Robotics section (Cracow, Poland, May 2017)
-        </li>
-
-        <li>
-          <b>3rd place</b> in International RoboT Engineering Contest 2017 - Freestyle (Timisoara, Romania, march 2017)
-        </li>
-
-        <li>
-          <b>3rd place</b> in International RoboT Engineering Contest 2017 - Freestyle (Timisoara, Romania, march 2017)
-        </li>
-
-        <li>
-          <b>Laureatee</b> of the 4th edition "The best diploma thesis WIMIR 2016" (Cracow, Poland, April 2016)
-        </li>
-
-        <li>
-          <b>2nd place</b> in Nationwide <a href="https://new.abb.com/pl/kariera/rozwoj-zawodowy/studenci/konkursy-abb/it-challenge/konkurs-abb-it-challenge-2015/wyniki">ABB IT Challenge 2015</a> Competition - "Home + Technology = Better Life" (Cracow, Poland, June 2015)
-        </li>
-
-      </ul>
+      <?php require 'static/award.html'; ?>
 
       <h4>Events</h4>
 
