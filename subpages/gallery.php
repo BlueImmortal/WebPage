@@ -2,12 +2,12 @@
 <html lang="en">
 <head>
 
-  <?php require 'static/header.html'; ?>
+  <?php require '/static/header.html'; ?>
 
 </head>
 <body>
 
-  <?php require 'static/navbar.html'; ?>
+  <?php require '/static/navbar.html'; ?>
 
 <div class="container" style="margin-top:30px; margin-bottom:45px">
   <div class="row">
@@ -55,7 +55,7 @@
 
 </div>
 
-<?php require 'static/footer.html'; ?>
+<?php require '/static/footer.html'; ?>
 
 </body>
 
