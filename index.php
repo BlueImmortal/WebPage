@@ -52,7 +52,7 @@
       
       <?php require 'static/about.html'; ?>
 
-      <?php require 'static/experience.html;'; ?>
+      <?php require 'static/experience.html'; ?>
 
       <h4>Awards</h4>
 
