@@ -52,31 +52,7 @@
       
       <?php require 'static/about.html'; ?>
 
-      <h2>Experience</h2>
-	  
-      <p class="text-justify">
-        Jakub Żak was a member of two scientific clubs: <a href="https://www.facebook.com/aghspace/">AGH Space Systems</a> and <a href="https://www.facebook.com/agh.robotics/">AGH Robotics</a> which work focused on respectively: space and industrial robotics technology. As a part of his scientific work, he carried out several research projects, which have been mostly rewarded:
-      </p>
-
-      <ul class="project">
-
-        <li>
-          Design of industrial manipulator based on AC servomotors - Master Thesis
-        </li>
-
-        <li>
-          4 DOF service robot - AGH Robotics
-        </li> 
-
-        <li>
-          Two-finger gripper for martian rover project "Kalman" - AGH Space Systems
-        </li>
-
-        <li>
-          Three-finger adaptive gripper for an industrial robot - Bachelor Thesis
-        </li>
-
-      </ul>
+      <?php require 'static/experience.html;'; ?>
 
       <h4>Awards</h4>
 
