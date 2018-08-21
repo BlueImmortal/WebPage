@@ -158,11 +158,7 @@
   </div>
 </div>
 
-<footer class="bg-dark container-fluid text-center fixed-bottom">
-  <span class="text-light">&copy Copyright 2018 Jakub Żak</span>
-</footer>
-
-
+<?php require 'static/footer.html'; ?>
 
 </body>
 </html>
