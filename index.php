@@ -56,43 +56,7 @@
 
       <?php require 'static/award.html'; ?>
 
-      <h4>Events</h4>
-
-      <ul class="event">
-
-        <li>
-          Event promoting the publication of the <a href="https://www.agh.edu.pl/wydarzenia/info/article/spotkanie-otwarte-z-autorami-ksiazeczek-agh-junior/?tx_ttnews%5BbackPid%5D=84&tx_ttnews%5BcalendarYear%5D=2017&tx_ttnews%5BcalendarMonth%5D=11&cHash=11f5aabffc79852342b45409331e061b">AGH Junior 2017</a> book
-        </li>
-
-        <li>
-          Robots Competition <a href="https://www.facebook.com/cyberbot">Cyberbot 2017</a>
-        </li>
-
-        <li>
-          AGH Open Day 2017
-        </li>
-
-        <li>
-          Student Constructions Competitions <a href="https://www.facebook.com/kokos.nzs/">KOKOS 2017</a>
-        </li>
-
-        <li>
-          AGH Open Day 2016
-        </li>
-
-        <li>
-          European Robotics Congress <a href="http://congress.roverchallenge.eu/front-page/">ERC 2016</a>
-        </li>
-
-        <li>
-          Academic projects fair <a href="http://eestec.agh.edu.pl/tpa/">TPA 2016</a>
-        </li>
-
-        <li>
-          <a href="https://fnis.pl/">Festival of Science in Cracow 2016</a>
-        </li>
-
-      </ul>
+      <?php require 'static/event.html'; ?>
 
 <!--
       <p>
