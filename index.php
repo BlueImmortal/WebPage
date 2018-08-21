@@ -7,28 +7,7 @@
 </head>
 <body>
 
-
-<nav class="navbar navbar-expand-sm bg-dark navbar-dark sticky-top">
-  <a class="navbar-brand" href="index.html">Menu</a>
-  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
-    <span class="navbar-toggler-icon"></span>
-  </button>
-  <div class="collapse navbar-collapse" id="collapsibleNavbar">
-    <ul class="navbar-nav">
-      <li class="nav-item">
-        <a class="nav-link active" href="index.html">About</a>
-      </li>
-<!--
-      <li class="nav-item">
-        <a class="nav-link" href="projects.html">Projects</a>
-      </li>
-	  <li class="nav-item">
-		<a class="nav-link" href=#>Gallery</a>
-	  </li>
--->
-    </ul>
-  </div>  
-</nav>
+<?php require 'static/navbar.html'; ?>
 
 <div class="container" style="margin-top:30px; margin-bottom:45px">
   <div class="row">
